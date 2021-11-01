@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&family=Zen+Antique+Soft&display=swap');
+
+* {
+    font-size: 1em;
+    font-family: 'Raleway', sans-serif;
+}
+
+#body {
+    background: rgb(54, 141, 182);
+}
+
+header {
+    color: #fff;
+    background: rgb(54, 141, 182);
+    padding: 10px;
+}
+
+.container {
+    background: rgb(54, 141, 182);
+}
+
+h1.logo {
+    text-align: left;
+    margin: 39px;
+    font-size: 56px;
+    text-shadow: 20px;
+}
+
+
+span {
+    color: rgb(246, 125, 39);
+}
+
+
+#new-article {
+    background-color: rgba(133, 183, 230, 0.781);
+}
+
+h1 {
+    color: #fff;
+}
+
+h4 {
+    color: rgb(246, 125, 39);
+}
+
+#blog-article {
+    color: #fff;
+}
+
+#new-article {
+    color: #fff;
+}
+
+#new-article-page {
+    color: #fff;
+}
+
+#read-more {
+    background-color: rgba(133, 183, 230, 0.781);
+    color: #FFF;
+}
+
+#edit {
+    background-color: rgba(133, 183, 230, 0.781);
+    color: #fff;
+}
+
+
+#edit-article {
+    color: #fff;
+}
+
+
+.subtitles { 
+    font-size: 20px;
+}
+
+.card-body {
+    background: rgb(231, 238, 238);
+    border-radius: 20px;
+    
+}
+
+#button {
+    background-color: chartreuse;
+}
+
+a {
+    font-size: 26px;
+}
+
+a:hover { 
+    background-color: chocolate;
+}
+
+
+footer {
+    color: #fff;
+}
+
+
