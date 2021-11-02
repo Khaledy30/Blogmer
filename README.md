@@ -1,5 +1,5 @@
-# Blogmer
-Blog criado utilizando NodeJS, Express, MongoDB e Bootstrap
+## Blogmer
+Blog markdown criado utilizando NodeJS, Express, MongoDB e Bootstrap
 
 ## Instalação
 **npm init <br>
