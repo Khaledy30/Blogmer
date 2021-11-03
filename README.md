@@ -2,7 +2,7 @@
 Blog markdown criado utilizando NodeJS, Express, MongoDB e Bootstrap
 
 ## Instalação
-**npm init <br>
+**npm install <br>
 npm run devStart**
 
 ## Visual
