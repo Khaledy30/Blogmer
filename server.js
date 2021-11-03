@@ -6,7 +6,7 @@ const articleRouter = require('./routes/articles')
 const methodOverride = require('method-override')
 const app = express()
 
-mongoose.connect('mongodb://localhost/blog', { 
+mongoose.connect('mongodb+srv://Khaledy:tetraplumbato2@cluster0.rxgad.mongodb.net/Blogmer?retryWrites=true&w=majority', { 
     useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true
 })
 
@@ -23,4 +23,4 @@ app.get('/', async (req, res) => {
 
 app.use('/articles', articleRouter) 
 
-app.listen(3333)
+app.listen('3333')
